@@ -25,7 +25,7 @@
 > 
 > 随机生成可以用`rand`函数。
 
-上述（1）~（5）分别在[Assignment_Day1_1.m](./Assignment_Day1_1.m)，[Assignment_Day1_2.m](./Assignment_Day1_2.m)，[Assignment_Day1_3.m](./Assignment_Day1_3.m)，[Assignment_Day1_4.m](./Assignment_Day1_4.m)和[Assignment_Day1_5.m](./Assignment_Day1_5.m)中实现。
+上述（1）~（5）分别在[Assignment_Day1_1.m](./code/Assignment_Day1_1.m)，[Assignment_Day1_2.m](./code/Assignment_Day1_2.m)，[Assignment_Day1_3.m](./code/Assignment_Day1_3.m)，[Assignment_Day1_4.m](./code/Assignment_Day1_4.m)和[Assignment_Day1_5.m](./code/Assignment_Day1_5.m)中实现。
 
 ## Assignment_Day1_1.m
 
