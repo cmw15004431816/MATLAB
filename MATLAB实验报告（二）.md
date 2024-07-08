@@ -23,7 +23,7 @@
 >
 > 备注：不准调用matlab中与上述功能相关的自有函数。
 
-上述（1）~（5）分别在文件Assignment_Day2_1.m，Assignment_Day2_2.m，Assignment_Day2_3.m，Assignment_Day2_4.m和Assignment_Day2_5.m中实现。
+上述（1）~（5）分别在文件[Assignment_Day2_1.m](./code/Assignment_Day2_1.m)，[Assignment_Day2_2.m](./code/Assignment_Day2_2.m)，[Assignment_Day2_3.m](./code/Assignment_Day2_3.m)，[Assignment_Day2_4.m](./code/Assignment_Day2_4.m)和[Assignment_Day2_5.m](./code/Assignment_Day2_5.m)中实现。
 
 ## Assignment_Day2_1.m
 
