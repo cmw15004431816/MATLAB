@@ -189,7 +189,7 @@ end
 
 ![img](./img/22.png)
 
-[点击此处下载演示视频](./img/1.mp4?raw=true)
+[点击此处下载演示视频](https://github.com/cmw15004431816/MATLAB/blob/main/img/1.mp4?raw=true)
 
 #### 过渡
 
@@ -197,7 +197,7 @@ end
 
 ![img](./img/24.png)
 
-[点击此处下载演示视频](./img/2.mp4?raw=true)
+[点击此处下载演示视频](https://github.com/cmw15004431816/MATLAB/blob/main/img/2.mp4?raw=true)
 
 ## Assignment_Day4_2.m
 
