@@ -248,8 +248,3 @@ outputImage = Assignment_Day4_2(inputImage, maskImage);
 ### 运行结果截图
 
 ![img](./img/25.png)
-
-<video controls>
-  <source src="https://github.com/cmw15004431816/MATLAB/blob/main/img/1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
