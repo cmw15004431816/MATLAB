@@ -246,3 +246,5 @@ isequal(inputImage, outputImage)
 ### 运行结果截图
 
 ![img](./img/27.png)
+
+点击[此处](https://github.com/cmw15004431816/MATLAB/blob/main/img/3.mp4?raw=true)下载演示视频。
