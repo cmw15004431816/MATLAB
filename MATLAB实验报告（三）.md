@@ -21,7 +21,7 @@
 
 **我选择完成（2）。**
 
-上述1）和2）分别在文件Assignment_Day4_1.m和Assignment_Day4_2.m中实现。
+上述1）和2）分别在文件[Assignment_Day4_1.m](./code/Assignment_Day4_1.m)和[Assignment_Day4_2.m](./code/Assignment_Day4_2.m)中实现。
 
 ## Assignment_Day4_1.m
 
